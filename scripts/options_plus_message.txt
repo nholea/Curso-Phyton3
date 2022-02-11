@@ -1,0 +1,9 @@
+Para continuar, introduce ENTERPOSITION
+Para continuar, introduce ENTERWORD
+Para consultar tus fichas, introduce MYPAWNS
+Para consultar tus puntos actuales, introduce MYSCORE
+Para consultar los puntos de cada ficha, introduce PAWNSPOINTS
+Para obtener ayuda con las posibles palabras a formar con tus fichas, introduce HELPWORD
+Para obtener ayuda con las posibles posiciones para la palabra, introduce HELPPOS
+Para consultar la leyenda de las casillas del tablero, introduce HELPLEGEND
+Para salir del juego, introduce QUITGAME

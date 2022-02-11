@@ -1,0 +1,6 @@
+Instrucciones del juego:
+    Introduce las palabras en MAYÚSCULAS
+    La primera palabra debe pasar siempre por la casilla central
+    Salvo la primera palabra, debes formar el resto de palabras aprovechando al menos una ficha ya situada sobre el tablero
+    Solamente hay dos posibles direcciones para colocar las palabras: V (vertical) y H (horizontal)
+===========================================================================================================================================================
